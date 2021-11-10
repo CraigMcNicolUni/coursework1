@@ -28,3 +28,4 @@ class Dec2Hex
 		System.out.println("ERROR! number isnt an integer");
     }
 }
+}
