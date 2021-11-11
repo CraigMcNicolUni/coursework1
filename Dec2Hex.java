@@ -35,7 +35,7 @@ class Dec2Hex
         	System.out.println("Hexadecimal representation is: " + hexadecimal);
 	}
     	} else {
-	       System.out.println("ERROR! integer is required");
+	       System.out.println("ERROR!! integer is required");
        		System.exit(0);
 	}		
 
