@@ -8,7 +8,7 @@ class Dec2Hex
     public static void main(String args[])
         {
                 if ( args.length == 0 ){
-                System.out.println("there is no value");
+                System.out.println("there is no value!");
                 System.exit(0);
                 } else{
                         try{
