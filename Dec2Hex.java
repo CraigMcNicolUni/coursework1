@@ -23,7 +23,7 @@ class Dec2Hex
                         num = Arg1;
                         {
                                 String hexadecimal="";
-                                System.out.println("Converting the Decimal Value " + num + " to Hex...");
+                                System.out.println("Converting the Decimal Values " + num + " to Hex...");
 
                                 while(num != 0)
                                 {
